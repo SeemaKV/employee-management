@@ -18,6 +18,8 @@ public class EmployeeManagementApplication {
 		names.add("pooja");
 		names.add("Bhumika");
 		names.add("Dhruthi");
+		names.add("stithi");
+		names.add("kaveri");
 
 		for (String name: names)
 		{
